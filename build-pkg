@@ -1,0 +1,4 @@
+rm *.deb
+rm -rf layout/Applications/istartupmoviemanager.app 
+cp -r manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app layout/Applications/istartupmoviemanager.app 
+make package
