@@ -12,13 +12,13 @@
     if ([player respondsToSelector:@selector(setControlStyle:)]) {
         player.controlStyle = MPMovieControlStyleNone;
     } 
-    player.scalingMode = MPMovieScalingModeAspectFill;
+    //player.scalingMode = MPMovieScalingModeAspectFill;
     [[NSNotificationCenter defaultCenter]addObserver:ololo selector:@selector(myMovieFinishedCallback:) name:@"MPMoviePlayerPlaybackDidFinishNotification" object:player];
     player.view.userInteractionEnabled = NO;
     Class _SBAwayController = NSClassFromString(@"SBAwayController");
     [[[_SBAwayController sharedAwayController]awayView] setFullscreen:true duration:1 force:true];
     [[[_SBAwayController sharedAwayController]awayView] addSubview:player.view];
-    
+    [[_SBAwayController sharedAwayController]cancelDimTimer];
     [player play];
     NSLog(@"Movie playing now");
     

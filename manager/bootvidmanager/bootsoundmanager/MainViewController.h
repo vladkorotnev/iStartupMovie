@@ -8,12 +8,14 @@
 
 #import "FlipsideViewController.h"
 
-@interface MainViewController : UIViewController <FlipsideViewControllerDelegate,UITableViewDataSource,UITableViewDelegate> {
+@interface MainViewController : UIViewController <FlipsideViewControllerDelegate,UITableViewDataSource,UITableViewDelegate,UIActionSheetDelegate> {
     IBOutlet UITableView *tableVw;
 }
 
 
+
 - (IBAction)showInfo:(id)sender;
 - (IBAction)about:(id)sender;
+
 
 @end

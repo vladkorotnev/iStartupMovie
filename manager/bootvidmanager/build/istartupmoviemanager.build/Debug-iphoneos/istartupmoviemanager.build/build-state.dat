@@ -6,15 +6,15 @@ cCpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sd
 cProcessInfoPlistFile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/Info.plist bootsoundmanager/istartupmoviemanager-Info.plist
 cProcessPCH /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch.gch bootsoundmanager/istartupmoviemanager-Prefix.pch normal armv6 objective-c com.apple.compilers.llvmgcc42
 cProcessPCH /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch.gch bootsoundmanager/istartupmoviemanager-Prefix.pch normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/FlipsideViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
 cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/FlipsideViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
 cLd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager normal armv6
+cCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/FlipsideViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
 cLd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager normal armv7
 cCreateUniversalBinary /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager normal "armv6 armv7"
 cGenerateDSYMFile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
@@ -59,6 +59,11 @@ c000000004D54D1DD0000000000001466
 t1297404381
 s5222
 
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5DEAE900000000003A84E0
+t1298000617
+s3835104
+
 N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
 c000000004D5A28AB0000000000000AA1
 t1297754283
@@ -97,14 +102,14 @@ t1311787723
 s14852
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.h
-c000000004E2FB5E7000000000000019F
-t1311749607
-s415
+c000000004E31120900000000000001B7
+t1311838729
+s439
 i"FlipsideViewController.h"
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m
-c000000004E304B0C0000000000000FF4
-t1311787788
+c000000004E3112010000000000000FF4
+t1311838721
 s4084
 i"MainViewController.h"
 
@@ -146,72 +151,72 @@ s354
 i<UIKit/UIKit.h>
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
-t2
-s0
+t1311838572
+s476
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM
-t2
-s0
+t1311838572
+s102
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/FlipsideView.nib
-t2
-s0
+t1311788655
+s2077
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/Info.plist
-t2
-s0
+t1311788652
+s1442
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/MainView.nib
-t2
-s0
+t1311788654
+s3119
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/PkgInfo
-t2
-s0
+t1311788652
+s8
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist
-t2
-s0
+t1311788652
+s485
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/en.lproj/InfoPlist.strings
-t2
-s0
+t1311788654
+s42
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/en.lproj/MainWindow.nib
-t2
-s0
+t1311788654
+s1702
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/icon-ipad.png
-t2
-s0
+t1311788655
+s6901
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/icon-old.png
-t2
-s0
+t1311788655
+s5191
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/icon-retina.png
-t2
-s0
+t1311788655
+s12203
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
-t2
-s0
+t1311838572
+s82000
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/FlipsideViewController.o
-t2
-s0
+t1311788653
+s41460
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o
-t2
-s0
+t1311838572
+s69940
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o
-t2
-s0
+t1311837443
+s51624
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager
-t2
-s0
+t1311838572
+s31004
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager.LinkFileList
 c000000004E304E6C00000000000002D7
@@ -219,24 +224,24 @@ t1311788652
 s727
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/main.o
-t2
-s0
+t1311788653
+s6568
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/FlipsideViewController.o
-t2
-s0
+t1311788653
+s41400
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o
-t2
-s0
+t1311838572
+s70068
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o
-t2
-s0
+t1311837444
+s51512
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager
-t2
-s0
+t1311838572
+s31004
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager.LinkFileList
 c000000004E304E6C00000000000002D7
@@ -244,12 +249,12 @@ t1311788652
 s727
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/main.o
-t2
-s0
+t1311788653
+s6580
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent
-t2
-s0
+t1311788655
+s384
 
 N/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/icon-ipad.png
 c000000004E304DB900000000000018B6
@@ -267,12 +272,12 @@ t1311788191
 s11593
 
 N/var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch.gch
-t2
-s0
+t1311788653
+s7960476
 
 N/var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch.gch
-t2
-s0
+t1311788653
+s8451996
 
 Nbootsoundmanager/bootsoundmanager-Info.plist
 c00000000000000000000000000000000
@@ -298,15 +303,15 @@ r0
 
 CCheck dependencies
 r0
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies9da1e8eb85e0b341^f0da15ec85e0b341^---0#1#0#--18"Check dependencies
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesae2d089d49e1b341^f59c209d49e1b341^---0#1#0#--18"Check dependencies
 
 CCodeSign /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
-s333481455.785889
-e333481456.449308
+s333531549.551907
+e333531549.742241
 r1
 xCodeSign
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CodeSign build/Debug-iphoneos/istartupmoviemanager.app3145c9ef85e0b341^b80573f085e0b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/0000000000000000^845"CodeSign build/Debug-iphoneos/istartupmoviemanager.app    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" --resource-rules=/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist --entitlements /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"CodeSign build/Debug-iphoneos/istartupmoviemanager.app1a698d9d49e1b341^3e03be9d49e1b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/0000000000000000^845"CodeSign build/Debug-iphoneos/istartupmoviemanager.app    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer" --resource-rules=/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist --entitlements /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/FlipsideViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s333481453.721174
@@ -322,8 +327,8 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.mc2bfb8ed85e0b341^8e06d8ed85e0b341^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m0000000000000000^2547"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/FlipsideViewController.o bootsoundmanager/FlipsideViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv6 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/FlipsideViewController.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-s333481453.610488
-e333481453.761746
+s333531549.138461
+e333531549.303625
 r1
 xCompileC
 xbuild/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o
@@ -332,11 +337,11 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m5d6a9ced85e0b341^de00c3ed85e0b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m0000000000000000^2531"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o bootsoundmanager/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv6 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m478f239d49e1b341^a5f74d9d49e1b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m0000000000000000^2531"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o bootsoundmanager/MainViewController.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv6 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/MainViewController.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42
-s333481453.581982
-e333481453.720669
+s333531549.139267
+e333531549.265700
 r1
 xCompileC
 xbuild/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o
@@ -345,7 +350,7 @@ xnormal
 xarmv6
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.mac1d95ed85e0b341^b285b8ed85e0b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m0000000000000000^2567"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv6 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m22c2239d49e1b341^020f449d49e1b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m0000000000000000^2567"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv6 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv6 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-cqlkyxvyxnmneobcgjkuhiaunyov/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/bootsoundmanagerAppDelegate.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv6 objective-c com.apple.compilers.llvmgcc42
 s333481453.498586
@@ -374,8 +379,8 @@ xcom.apple.compilers.llvmgcc42
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection114"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m7f34d8ed85e0b341^1dccfeed85e0b341^---0#0#0#-19%DVTDocumentLocation2@122"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m0000000000000000^2547"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/FlipsideViewController.o bootsoundmanager/FlipsideViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/FlipsideViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/FlipsideViewController.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s333481453.761928
-e333481453.912474
+s333531549.303806
+e333531549.446074
 r1
 xCompileC
 xbuild/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o
@@ -384,11 +389,11 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.me02ec3ed85e0b341^45f2e9ed85e0b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m0000000000000000^2531"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o bootsoundmanager/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection110"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m75e74d9d49e1b341^c13a729d49e1b341^---0#0#0#-19%DVTDocumentLocation2@118"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m0000000000000000^2531"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o bootsoundmanager/MainViewController.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/MainViewController.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/MainViewController.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42
-s333481453.413682
-e333481453.610303
+s333531549.266723
+e333531549.406148
 r1
 xCompileC
 xbuild/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o
@@ -397,7 +402,7 @@ xnormal
 xarmv7
 xobjective-c
 xcom.apple.compilers.llvmgcc42
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m94166aed85e0b341^7d3c9ced85e0b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m0000000000000000^2567"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.mcf67449d49e1b341^9f02689d49e1b341^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m0000000000000000^2567"CompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o bootsoundmanager/bootsoundmanagerAppDelegate.m normal armv7 objective-c com.apple.compilers.llvmgcc42    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -DDEBUG -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -gdwarf-2 -mthumb -miphoneos-version-min=3.1.3 -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-generated-files.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-own-target-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-all-target-headers.hmap -iquote /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager-project-headers.hmap -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/include -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources/armv7 -I/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/DerivedSources -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -include /var/folders/1m/1msLGpk2GeCHHiyNxqDU6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/istartupmoviemanager-Prefix-ctuchzhqcjkbzkbzkcndptkruwym/istartupmoviemanager-Prefix.pch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/bootsoundmanagerAppDelegate.m -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/bootsoundmanagerAppDelegate.o
 
 CCompileC build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/main.o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/bootsoundmanager/main.m normal armv7 objective-c com.apple.compilers.llvmgcc42
 s333481453.257119
@@ -490,43 +495,43 @@ xbuild/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Copy build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist48a918ec85e0b341^52d520ec85e0b341^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist000020442305f041^663"CpResource /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist build/Debug-iphoneos/istartupmoviemanager.app/ResourceRules.plist    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/ResourceRules.plist /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
 
 CCreateUniversalBinary /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager normal "armv6 armv7"
-s333481454.586477
-e333481454.636379
+s333531549.487585
+e333531549.497865
 r1
 xCreateUniversalBinary
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
 xnormal
 xarmv6 armv7
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Create universal binary /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanageref3796ee85e0b341^1ceba2ee85e0b341^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager000020442305f041^836"CreateUniversalBinary build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager normal "armv6 armv7"    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager -output /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection155"Create universal binary /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager60e57c9d49e1b341^917e7f9d49e1b341^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager0000000000000000^836"CreateUniversalBinary build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager normal "armv6 armv7"    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager -output /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
 
 CGenerateDSYMFile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
-s333481454.636659
-e333481454.777229
+s333531549.498287
+e333531549.534933
 r1
 xGenerateDSYMFile
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generating /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYMe50ea3ee85e0b341^05f8c6ee85e0b341^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM000020442305f041^614"GenerateDSYMFile build/Debug-iphoneos/istartupmoviemanager.app.dSYM build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generating /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYMa9a37f9d49e1b341^5df9889d49e1b341^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM/0000000000000000^614"GenerateDSYMFile build/Debug-iphoneos/istartupmoviemanager.app.dSYM build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/istartupmoviemanager -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app.dSYM
 
 CLd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager normal armv6
-s333481453.914321
-e333481454.584893
+s333531549.406678
+e333531549.453559
 r1
 xLd
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager
 xnormal
 xarmv6
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanagerbb28eaed85e0b341^65c495ee85e0b341^---0#0#0#--1209"Ld build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager normal armv6    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -filelist /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanagerd234689d49e1b341^b823749d49e1b341^---0#0#0#--1209"Ld build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager normal armv6    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -filelist /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv6/istartupmoviemanager
 
 CLd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager normal armv7
-s333481453.997113
-e333481454.586146
+s333531549.446763
+e333531549.487345
 r1
 xLd
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager
 xnormal
 xarmv7
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager7c64ffed85e0b341^a11396ee85e0b341^---0#0#0#--1209"Ld build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager normal armv7    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -filelist /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection186"Link /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager2575729d49e1b341^f8c27c9d49e1b341^---0#0#0#--1209"Ld build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager normal armv7    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv IPHONEOS_DEPLOYMENT_TARGET 3.1.3    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/llvm-gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk -L/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -F/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos -filelist /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager.LinkFileList -dead_strip -miphoneos-version-min=3.1.3 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/Objects-normal/armv7/istartupmoviemanager
 
 CProcessInfoPlistFile /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app/Info.plist bootsoundmanager/bootsoundmanager-Info.plist
 r0
@@ -582,10 +587,10 @@ x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartup
 lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection214"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcente067c4ef85e0b341^c7f4c8ef85e0b341^---0#0#0#-19%DVTDocumentLocation2@182"file://localhost/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent000020442305f041^738"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/istartupmoviemanager.build/Debug-iphoneos/istartupmoviemanager.build/istartupmoviemanager.xcent
 
 CTouch /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
-s333481455.754333
-e333481455.765074
+s333531549.538765
+e333531549.548453
 r1
 xTouch
 x/Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
-lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app1634c1ef85e0b341^4ddbc3ef85e0b341^---0#0#0#--381"Touch build/Debug-iphoneos/istartupmoviemanager.app    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
+lSLF03#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Touch /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app54028a9d49e1b341^65708c9d49e1b341^---0#0#0#--381"Touch build/Debug-iphoneos/istartupmoviemanager.app    cd /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/tigra/Desktop/Coding/istartupmovie/manager/bootvidmanager/build/Debug-iphoneos/istartupmoviemanager.app
 

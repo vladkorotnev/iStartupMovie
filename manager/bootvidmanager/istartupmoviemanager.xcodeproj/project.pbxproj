@@ -28,9 +28,9 @@
 		826F26FE13DFE078008AFF94 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		826F270013DFE078008AFF94 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		826F270213DFE078008AFF94 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		826F270613DFE078008AFF94 /* istartupmoviemanager-Info.plist */ = {isa = PBXFileReference; path = "istartupmoviemanager-Info.plist"; sourceTree = "<group>"; };
+		826F270613DFE078008AFF94 /* istartupmoviemanager-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "istartupmoviemanager-Info.plist"; sourceTree = "<group>"; };
 		826F270813DFE078008AFF94 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		826F270A13DFE078008AFF94 /* istartupmoviemanager-Prefix.pch */ = {isa = PBXFileReference; path = "istartupmoviemanager-Prefix.pch"; sourceTree = "<group>"; };
+		826F270A13DFE078008AFF94 /* istartupmoviemanager-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "istartupmoviemanager-Prefix.pch"; sourceTree = "<group>"; };
 		826F270B13DFE078008AFF94 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		826F270D13DFE078008AFF94 /* bootsoundmanagerAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = bootsoundmanagerAppDelegate.h; sourceTree = "<group>"; };
 		826F270E13DFE078008AFF94 /* bootsoundmanagerAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = bootsoundmanagerAppDelegate.m; sourceTree = "<group>"; };
@@ -41,6 +41,7 @@
 		826F271813DFE079008AFF94 /* FlipsideViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = FlipsideViewController.h; sourceTree = "<group>"; };
 		826F271913DFE079008AFF94 /* FlipsideViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlipsideViewController.m; sourceTree = "<group>"; };
 		826F271B13DFE079008AFF94 /* FlipsideView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FlipsideView.xib; sourceTree = "<group>"; };
+		829FD0DC13E145B8008CD6B8 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
 		82B8F17F13E0850600B16A54 /* icon-old.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-old.png"; sourceTree = "<group>"; };
 		82B8F18113E0850D00B16A54 /* icon-retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-retina.png"; sourceTree = "<group>"; };
 		82B8F18313E0854000B16A54 /* icon-ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-ipad.png"; sourceTree = "<group>"; };
@@ -63,6 +64,7 @@
 		826F26EF13DFE078008AFF94 = {
 			isa = PBXGroup;
 			children = (
+				829FD0DC13E145B8008CD6B8 /* MediaPlayer.framework */,
 				82B8F18313E0854000B16A54 /* icon-ipad.png */,
 				82B8F18113E0850D00B16A54 /* icon-retina.png */,
 				82B8F17F13E0850600B16A54 /* icon-old.png */,

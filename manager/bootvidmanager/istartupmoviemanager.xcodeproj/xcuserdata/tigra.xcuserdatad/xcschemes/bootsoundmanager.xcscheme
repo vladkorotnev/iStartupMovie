@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "826F26F913DFE078008AFF94"
-            BuildableName = "bootsoundmanager.app"
-            BlueprintName = "bootsoundmanager"
-            ReferencedContainer = "container:bootsoundmanager.xcodeproj">
+            BuildableName = "istartupmoviemanager.app"
+            BlueprintName = "istartupmoviemanager"
+            ReferencedContainer = "container:istartupmoviemanager.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
